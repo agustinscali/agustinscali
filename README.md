@@ -6,36 +6,6 @@ Soy un desarrollador apasionado por la tecnología y la ingeniería de software.
 
 ---
 
-### 🛠️ Tech Stack
-
-**Lenguajes:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Frameworks & Herramientas:**
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🚀 Proyecto Destacado: Módulo Kernel & CPU (Sistemas Operativos)
-
-_Implementación de un sistema operativo simulado en C para la materia Sistemas Operativos (UTN FRBA)._
-
-Este proyecto simula la planificación y ejecución de procesos en un entorno distribuido.
-
-* **Tecnologías:** C, Pthreads, Sockets, Commons Library.
-* **Desafíos:**
-    * Manejo de concurrencia y semáforos para evitar condiciones de carrera.
-    * Comunicación Cliente-Servidor mediante Sockets.
-    * Algoritmos de planificación de CPU (FIFO, Round Robin, Feedback Multinivel).
-    * Gestión de Memoria (Paginación / Segmentación).
-
-[Ver repositorio completo →](https://github.com/agustinscali/TP-Sistemas-Operativos)
-
----
-
 ### 📫 Contacto
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/agustin-scali-17581128b)
