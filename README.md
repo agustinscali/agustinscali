@@ -1,6 +1,6 @@
 # ¡Hola! Soy Agustin Scali 👋
 
-### Estudiante de Ingeniería en Sistemas @ UTN FRBA 🇦🇷
+### Estudiante de Ingeniería en Sistemas de la UTN-FRBA
 
 Soy un desarrollador apasionado por la tecnología y la ingeniería de software. Actualmente me encuentro cursando la carrera de Ingeniería en Sistemas y profundizando mis conocimientos en desarrollo Backend y sistemas de bajo nivel.
 
