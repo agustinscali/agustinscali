@@ -36,15 +36,6 @@ Este proyecto simula la planificación y ejecución de procesos en un entorno di
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agustinscali&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinscali&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-</div>
-
----
-
 ### 📫 Contacto
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/agustin-scali-17581128b)
